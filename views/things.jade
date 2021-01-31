@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  h1= title
+    ul
+      each thing in things
+        li
+          span #{thing.name}
+          |  (#{thing.miscNum})
+      else
+        li There are no things.
+
+
