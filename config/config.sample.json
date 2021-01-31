@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "{FILL ME IN}",
+    "password": "{FILL ME IN}",
+    "database": "{FILL ME IN}",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "{FILL ME IN}",
+    "password": "{FILL ME IN}",
+    "database": "{FILL ME IN}",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
