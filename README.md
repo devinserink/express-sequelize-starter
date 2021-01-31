@@ -9,4 +9,4 @@ run `npm test`
 
 run `npm start`
 
-Open [http://localhost:3000/things.html] in a browser.
+Open <http://localhost:3000/things.html> in a browser.
